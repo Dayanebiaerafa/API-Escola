@@ -1,3 +1,15 @@
+# Ignorar arquivos de banco de dados
+*.sqlite3
+*.db
+
+# Ignorar credenciais e configurações sensíveis
+.env
+config/settings.py
+
+# Ignorar diretórios gerados automaticamente
+__pycache__/
+venv/
+
 # Created by https://www.toptal.com/developers/gitignore/api/django
 # Edit at https://www.toptal.com/developers/gitignore?templates=django
 
