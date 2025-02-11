@@ -1,4 +1,4 @@
-# API Escola
+# 💻 API Escola
 
 
 ## ⚙ Configuração do Ambiente Virtual (venv)
@@ -60,7 +60,7 @@ O servidor estará disponível em `http://127.0.0.1:8000/`. Você pode acessar e
 A estrutura básica do projeto é a seguinte:
 
 ```
-drf-escola-curso-01/
+API-Escola/
 ├── escola/
 │   ├── migrations/
 │   ├── __init__.py
